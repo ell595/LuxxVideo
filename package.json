@@ -1,0 +1,20 @@
+{
+  "name": "luxx.video",
+  "version": "1.0.0",
+  "description": "The North West's premier creative video house",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elliot Fraser",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.1.0",
+    "materialize-css": "^0.100.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
